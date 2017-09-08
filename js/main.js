@@ -32,7 +32,7 @@ function recoverData(){
   }
 }
 
-// Cargar primero todo el contenido de la lista
+// me carga el contenido de la pagina
 $(document).ready(function(){
    recoverData ();
 });
